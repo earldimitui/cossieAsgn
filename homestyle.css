@@ -1,0 +1,109 @@
+@charset "utf-8";
+#topNav {
+	width:1009px;
+	height:35px;
+	padding-top:10px;
+	padding-left:15px;	
+}
+
+#topNav a {
+	color:#F5A06E;
+	text-decoration:none;
+	text-transform:uppercase;
+	font-weight:bold;
+	display:inline-block;
+	margin-right:15px;
+	padding-top:10px;
+}
+
+#topNav a:hover {
+	border-bottom:solid;
+	border-bottom-width:2px;
+	border-bottom-color:#F5A06E;
+}
+
+#container {
+	width:1024px;
+	height:768px;
+	margin-right:auto;
+	margin-left:auto;
+}
+
+header {
+	width:989px;
+	height:95px;
+	background-color:#000000;
+	color:#FFFFFF;
+	padding-top:35px;
+	padding-left:35px;
+}
+
+#titlebar {
+	width:1024px;
+	height:50px;
+	text-align:center;
+	padding-top:15px;
+	
+}
+
+#main {
+	width:1024px;
+	height:448px;
+}
+
+#innerMain {
+	width:1024px;
+	height:448px;
+	background-color:#FFCC00;
+	border-radius:15px;
+}
+
+#content1 {
+	width:512px;
+	height:376px;
+	float:left;
+	padding-top:72px;
+	padding-left:72px;
+}
+
+#content2 {
+	width:440px;
+	height:376px;
+	float:right;
+	padding-top:72px;
+	overflow:hidden;
+}
+
+#titlebar {
+	background-color:#FFCC00;
+}
+
+footer {
+	width:1024px;
+	height:100px;
+}
+
+#bottomNav {
+	width:1025px;
+	height:50px;
+}
+
+body {
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:14px;
+	line-height:1.5em;
+	color:#333333;
+}
+
+h1 {
+	font-family:Sarina;
+	font-size:4em;
+	margin-top:0px;
+}
+
+h2 {
+	margin:0px;
+	font-size:1.75em;
+}	`
+
+
