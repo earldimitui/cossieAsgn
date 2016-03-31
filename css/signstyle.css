@@ -86,7 +86,26 @@ footer {
 
 #bottomNav {
 	width:1025px;
-	height:50px;
+	height:40px;
+	text-decoration:none;
+	color:#FFCC00;
+	text-align:center;
+	display:block;
+	padding-top:10px;
+}
+
+#bottomNav a {
+	color:#FFCC00;
+	text-transform:uppercase;
+	text-decoration:none;
+	font-weight:bold;
+	margin-right:15px;
+}
+
+#bottomNav a:hover {
+	border-bottom:solid;
+	border-width:2px;
+	border-bottom-color:#FFCC00;
 }
 
 body {
