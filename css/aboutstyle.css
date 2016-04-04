@@ -7,7 +7,7 @@
 }
 
 #topNav a {
-	color:#FFCC00;
+	color:red;
 	text-decoration:none;
 	text-transform:uppercase;
 	font-weight:bold;
@@ -19,7 +19,7 @@
 #topNav a:hover {
 	border-bottom:solid;
 	border-bottom-width:2px;
-	border-bottom-color:#F5A06E;
+	border-bottom-color:red;
 }
 
 #container {
@@ -54,7 +54,7 @@ header {
 #innerMain {
 	width:1024px;
 	height:448px;
-	background-color:#FFCC00;
+	background-color:red;
 	border-radius:15px;
 }
 
@@ -75,7 +75,7 @@ header {
 }
 
 #titlebar {
-	background-color:#FFCC00;
+	background-color:red;
 }
 
 footer {
@@ -94,7 +94,7 @@ footer {
 }
 
 #bottomNav a {
-	color:#FFCC00;
+	color:red;
 	text-transform:uppercase;
 	text-decoration:none;
 	font-weight:bold;
@@ -104,7 +104,7 @@ footer {
 #bottomNav a:hover {
 	border-bottom:solid;
 	border-width:2px;
-	border-bottom-color:#FFCC00;
+	border-bottom-color:red;
 }
 
 body {
@@ -118,12 +118,14 @@ h1 {
 	font-family:Sarina;
 	font-size:4em;
 	margin-top:0px;
+	color:red;
+	text-align:center;
 }
 
 h2 {
 	margin:0px;
 	font-size:1.75em;
+	color:white;
 }
-`
 
 
